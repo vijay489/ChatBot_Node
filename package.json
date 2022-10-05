@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/extwiii/Nodejs-Real-time-Chat-App-.git"
+    "url": "git+https://github.com/vijay489/ChatBot_Node"
   },
   "keywords": [
     "nodejs",
@@ -18,12 +18,12 @@
     "chat",
     "app"
   ],
-  "author": "Bilal Cagiran",
+  "author": "Vijay",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/extwiii/Nodejs-Real-time-Chat-App-/issues"
+    "url": "https://github.com/vijay489/ChatBot_Node-/issues"
   },
-  "homepage": "https://github.com/extwiii/Nodejs-Real-time-Chat-App-#readme",
+  "homepage": "https://github.com/vijay489/ChatBot_Node-#readme",
   "dependencies": {
     "express": "^4.14.0",
     "jade": "^1.11.0",
